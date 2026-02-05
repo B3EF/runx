@@ -4,3 +4,4 @@ coolname>=1.1.0
 tabulate>=0.8.3
 tensorboardX>=1.4
 
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
